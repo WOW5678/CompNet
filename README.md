@@ -11,6 +11,7 @@ CompNet is an end-to-end model mainly based on graph convolutional networks (GCN
 Requirements
 =====
 pytorch >= 0.4
+
 python >= 3.5
 
 Running the code
@@ -26,16 +27,3 @@ CompNet
 =====
 run main_CompNet.py
 
-Cite
-====
-Please cite our paper if you use this code in your own work:
-
-@inproceedings{Wang2019compNet,
-  title="{Order-free Medicine Combination Prediction With Graph
-Convolutional Reinforcement Learning}",
-  author={Shanshan Wang, Pengjie Ren, Zhumin Chen, Zhaochun Ren, Jun Ma, and Maarten
-de Rijke},
-  booktitle={CIKM 2019},
-  year={2019}
-  }
-}
