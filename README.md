@@ -2,7 +2,7 @@ CompNet
 ====
 
 This is the source code of paper "[Order-free Medicine Combination Prediction With Graph
-Convolutional Reinforcement Learning]()".
+Convolutional Reinforcement Learning](https://github.com/WOW5678/CompNet/blob/master/CompNet_cikm2019.pdf)".
 
 Overview
 ====
