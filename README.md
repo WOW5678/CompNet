@@ -31,3 +31,11 @@ Cite
 ====
 Please cite our paper if you use this code in your own work:
 
+```
+@article{shang2018gamenet,
+  title="{Order-free Medicine Combination Prediction With Graph Convolutional Reinforcement Learning}",
+  author={Shanshan Wang and Pengjie Ren and Zhumin Chen and Zhaochun Ren and Jun Ma and Maarten de Rijke},
+  journal={CIKM 2019},
+  year={2019}
+}
+```
