@@ -1,8 +1,8 @@
 CompNet
 ====
 
-This is the source code of paper "Order-free Medicine Combination Prediction With Graph
-Convolutional Reinforcement Learning".
+This is the source code of paper "[Order-free Medicine Combination Prediction With Graph
+Convolutional Reinforcement Learning]()".
 
 Overview
 ====
