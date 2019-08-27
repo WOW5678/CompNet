@@ -20,7 +20,7 @@ Running the code
 Data preprocessing
 ===
 1. download [MIMIC data](https://mimic.physionet.org/) and put DIAGNOSES_ICD.csv, PRESCRIPTIONS.csv, PROCEDURES_ICD.csv in ./MIMIC-III/
-2. download [DDI data] (https://www.dropbox.com/s/8os4pd2zmp2jemd/drug-DDI.csv?dl=0) and put it in ./MIMIC-III/
+2. download [DDI data](https://www.dropbox.com/s/8os4pd2zmp2jemd/drug-DDI.csv?dl=0) and put it in ./MIMIC-III/
 3. run code ./process_MIMIC.py
 
 CompNet
